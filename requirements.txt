@@ -9,4 +9,4 @@ tqdm==4.38.0
 scikit-learn==0.21.3
 flask-sqlalchemy==2.4.1
 mysqlclient
-tensorflow==1.15.2
+tensorflow==2.11.1
