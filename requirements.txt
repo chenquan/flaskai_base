@@ -1,5 +1,5 @@
 numpy==1.17.3
-Flask==1.1.1
+Flask==2.3.2
 matplotlib==3.0.0
 joblib==0.14.0
 requests==2.22.0
